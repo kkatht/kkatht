@@ -54,7 +54,7 @@ a {
   margin-right: 10px;
 }
 
-.twitter {
+.twitte {
   background-color: #55acee;
 }
 
@@ -72,32 +72,6 @@ a {
   opacity: 1;
 }
 
-.btna {
-  background-color: #239b76;
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 10px;
-  text-align: center;
-}
-
-.btna:hover {
-  opacity: 1;
-}
-
-.btnb {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 15px;
-  text-align: center;
-}
-
-.btnb:hover {
-  opacity: 1;
-}
 
 
 .fa {
