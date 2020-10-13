@@ -58,6 +58,17 @@ a {
   background-color: #55acee;
 }
 
+.dami1 {
+  background-color: #f9e900;
+  border-radius: 15px;
+}
+
+.dami2 {
+  background-color: #f5a500;
+   border-radius: 30px;
+}
+
+
 .btn {
   padding: 8px 24px;
   color: white;
