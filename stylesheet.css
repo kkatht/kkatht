@@ -306,4 +306,11 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
+  .message-wrapper .button{
+    width: 90%;
+}
+  .message-wrapper .label{
+    width: 80%;
+  }
 }
