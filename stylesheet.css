@@ -54,10 +54,18 @@ a {
   margin-right: 10px;
 }
 
-.twitte {
+.twitter {
   background-color: #55acee;
 }
 
+.site  {
+  background-color: #f9e900;
+}
+
+.brand {
+  background-color: #f5a500;
+   border-radius: 14px;
+}
 
 .btn {
   padding: 8px 24px;
